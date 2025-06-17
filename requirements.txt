@@ -1,0 +1,11 @@
+
+---
+
+Would you like a version with **GUI visualization (Tkinter or PyQt)** or **chunk-based file transfer + BitTorrent-style redundancy** added next?
+
+
+## 🛠 Tech Stack
+
+- Python 3.6 or higher
+- TCP socket programming
+- Multithreading for handling multiple 
